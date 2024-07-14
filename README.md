@@ -6,10 +6,11 @@ ModUtils Lite is the ultimate solution for moderating your Minecraft server. Whe
 You can use this for a single server or a network - however, for network functionality, Redis is required.
 
 ## Features
-Staff & Admin Chat Channels
-Vanish
-TP & TP Here
-Private Messaging (cross-server support coming soon) and SocialSpy [NOT YET IMPLEMENTED]
+- Staff & Admin Chat Channels
+- Vanish
+- TP & TP Here
+- Private Messaging (cross-server support planned) and SocialSpy [NOT YET IMPLEMENTED]
+- Report & Help-Op (cross-server support) [NOT YET IMPLEMENTED]
 
 ### Possible Features
 These might be added in future releases, or in a paid version of this plugin.
