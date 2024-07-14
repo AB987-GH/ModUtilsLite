@@ -1,0 +1,3 @@
+name: ModUtils Lite
+version: '${project.version}'
+main: dev.ab.modutilslite.ModUtilsLite
