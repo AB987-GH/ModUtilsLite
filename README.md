@@ -22,7 +22,7 @@ These might be added in future releases, or in a paid version of this plugin.
 
 __Implemented__
 - /staffchat (/sc) - modutils.command.staffchat - also grants permission to see staff chat messages and use the message prefix
-- /n /adminchat (/ac) - modutils.command.adminchat - also grants permission to see admin chat messages and use the message prefix
+- /adminchat (/ac) - modutils.command.adminchat - also grants permission to see admin chat messages and use the message prefix
 - /vanish (/v) - modutils.command.vanish - also grants permission to see vanished players
 - /teleport (/tp) - modutils.command.tp
 - /teleporthere (/tphere) - modutils.command.tphere
