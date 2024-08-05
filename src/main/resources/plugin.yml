@@ -1,3 +1,15 @@
 name: ModUtils Lite
 version: '${project.version}'
 main: dev.ab.modutilslite.ModUtilsLite
+commands:
+  vanish:
+    aliases: v
+  sc:
+    aliases: staffchat
+  ac:
+    aliases: adminchat
+  tp:
+    aliases: teleport
+  tphere:
+    aliases: teleporthere
+

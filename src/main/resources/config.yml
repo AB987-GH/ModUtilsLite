@@ -1,0 +1,26 @@
+redis:
+  enabled: true
+  host: "localhost"
+  port: 6379
+  password: "admin"
+settings:
+  server-name: "practice-na"
+  luckperms-rank-colors: true
+  essentials-enabled: true # teleport, teleport here, private messaging, and social spy
+  staff-chat-prefix: "# "
+  admin-chat-prefix: "! "
+messages:
+  staff-chat: "&b&l[S] &3[<server>] <player>&3: &b<message>"
+  admin-chat: "&c&l[A] &3[<server>] <player>&3: &b<message>"
+  vanish: "&eVanish is now &aenabled"
+  vanish-alert: "&7&o[<player>&7&o: &e&ovanished&7&o]"
+  unvanish: "&eVanish is now &cdisabled"
+  unvanish-alert: "&7&o[<player>&7&o: &e&ounvanished&7&o]"
+  vanish-auto: "&a&lYou were automatically vanished upon logging in."
+  teleport: "&eTeleporting to <target>&e..."
+  teleport-alert: "&7&o[<player>&7&o: &e&oteleported to <target>&7&o]"
+  teleport-here: "&eTeleporting <target> &eto you..."
+  teleport-here-alert: "&7&o[<player>&7&o: &e&oteleported <target> &e&oto themself&7&o]"
+  message-to: "&e(To <player>&e) &f<message>"
+  message-from: "&e(From <player>&e) &f<message>"
+  socialspy: "&c&l[SocialSpy] &e<from> &c--> &e<to> &7- &c<message>"
